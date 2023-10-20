@@ -1,4 +1,5 @@
-package org.tku.config;
+package org.tku.web.config;
+
 
 import lombok.extern.log4j.Log4j2;
 import org.springframework.beans.factory.annotation.Value;
@@ -66,4 +67,3 @@ public class I18nConfiguration {
     }
 
 }
-
